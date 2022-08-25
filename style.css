@@ -19,5 +19,11 @@ body{background-color: blanchedalmond;}
     font-weight: 700;
     text-transform: uppercase;
     font-family: sans-serif;
+    transition: all 0.2s ease;
+}
+.container:hover >h1{
+    color: rgb(54, 34, 34);
+    font-size: 35px;
+    
 }
 /* ___Fine____ */
